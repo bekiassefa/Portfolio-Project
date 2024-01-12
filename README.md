@@ -7,3 +7,6 @@ This dynamic web application serves as a centralized platform, facilitating seam
 Serto-Ader aims to enhance the efficiency of the daily labor market by providing a transparent and accessible platform. Employers can now find suitable candidates swiftly, while daily laborers can explore a range of opportunities that align with their skills and preferences. The platform's modern interface ensures that the connection between employers and Serto-Aders is not only functional but also intuitive and user-centric.
 
 By leveraging technology, Serto-Ader is poised to transform the daily labor landscape in Ethiopia, fostering a more connected and empowered workforce. As the web application gains traction, it promises to uplift the livelihoods of countless individuals by facilitating meaningful employment opportunities and promoting the spirit of hard work that defines the term "Serto-Ader." Welcome to a new era of efficiency, connectivity, and prosperity with Serto-Ader.
+![serto](https://github.com/bekiassefa/Portfolio-Project/assets/118681825/8846c768-f940-4dbc-a080-9ea5f1dd899b)
+![sert1](https://github.com/bekiassefa/Portfolio-Project/assets/118681825/9f177743-98b0-49a4-8035-40ffaef295ae)
+![sert0](https://github.com/bekiassefa/Portfolio-Project/assets/118681825/93e5e6a9-ba2f-47a8-86f8-3e2fcd51e7de)
